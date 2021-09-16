@@ -2,3 +2,7 @@ Belajar github pertama kali:
 -> Belajar menggunakan github
 -> Belajar menggunakan git
 -> Belajar menggunakan keduanya
+
+Keinginan:
+-> Kedepannya saya ingin menjadi Front-End Developer
+-> Ingin belajar react.js dan node.js
