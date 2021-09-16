@@ -4,4 +4,6 @@ Contoh: belajar membuat branch baru dengan github
 Contoh: Menambahkan teks baru disini :D
 Contoh: Menambahkan materi javascript ES6
 Contoh: Menambahkan materi SASS
-Contoh: Menambahkan materi react.js
+Contoh: Menambahkan materi
+  1. react.js
+  2. angular
