@@ -1,3 +1,4 @@
 Disini saya membuat branch baru dari percabangan 'main branch'
 
 Contoh: belajar membuat branch baru dengan github
+Contoh: Menambahkan teks baru disini :D
