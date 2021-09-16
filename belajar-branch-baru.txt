@@ -1,9 +1,7 @@
 Disini saya membuat branch baru dari percabangan 'main branch'
 
-Contoh: belajar membuat branch baru dengan github
-Contoh: Menambahkan teks baru disini :D
 Contoh: Menambahkan materi javascript ES6
-Contoh: Menambahkan materi SASS
+Contoh: Menambahkan materi LESS
 Contoh: Menambahkan materi
   1. react.js
-  2. angular
+  2. vue.js
