@@ -1,0 +1,4 @@
+Belajar github pertama kali:
+-> Belajar menggunakan github
+-> Belajar menggunakan git
+-> Belajar menggunakan keduanya
