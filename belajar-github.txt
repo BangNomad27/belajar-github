@@ -1,5 +1,8 @@
 Belajar github pertama kali:
 -> Belajar menggunakan github dan git
+-> Belajar mengenai Javascript
+-> Belajar mengenai CSS 3 tentang Flexbox
 
 Keinginan:
 -> Kedepannya saya ingin menjadi Front-End Developer
+-> Ingin memiliki web tutorial
