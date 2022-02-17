@@ -5,4 +5,4 @@ Belajar github pertama kali:
 
 Keinginan:
 -> Kedepannya saya ingin menjadi Front-End Developer
--> Ingin memiliki web tutorial
+-> Ingin membuat game sederhana
